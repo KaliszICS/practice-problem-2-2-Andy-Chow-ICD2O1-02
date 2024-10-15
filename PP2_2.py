@@ -1,6 +1,6 @@
 '''
-    Lesson: If and Else
-    Author: Mr. Kalisz
+    Assignment: If and Else
+    Author: Andy Chow
     Date Created: October 15, 2024
     Date Last Modified: October15, 2024
 '''
